@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appcombustivel</string>
+    <string name="km_atual">km_atual</string>
+    <string name="nometipo">nometipo</string>
+    <string name="lts_combustivel">lts_combustivel</string>
+    <string name="consumo_kml">consumo_kml</string>
+</resources>

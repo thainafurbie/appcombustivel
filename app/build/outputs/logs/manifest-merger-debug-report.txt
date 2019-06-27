@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\5b4b5462c462d09ba40a03a2401aa4a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\a7bb9322eef351113c09f43ec5be2266\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\1513cf45c1122522edb91871f719e2aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\5c132ff4d82e581570deb2b9b7363493\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\d114f0625c9655ae0d36eec5f1748172\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\0c86f62cff1f81177b381a6fe0b44dbb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\c8f102129bfa6ecf0e35fb8e7bd72d67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\0e5f08d8afe7f43c4b68895e3f637b4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\aeeddbbbdeda1c40897a58bfb153f53d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\4c7208de0d5bbe80667a52336d5561da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\ba9ef01764c7ee40d72d1bdb3677d793\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\a8f16673473c607aa5e7da905816ff3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\3137de16b202e2bb2d33d4874154190f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\aa86f8e17fd36e9d794ce21de00c2465\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\5397f8972f595f309dd0c528ce31c4fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\53c77c89d36fad9dd957f0e654f8ff42\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\cfce796ce010be54b926528d07eae996\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\025ba84ae060b9b45e3fee32d5e04c21\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\e42a1cabaf56ad443e170ce56995f5d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\b0bb76d7f31c1762215e2b3d52c6caf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\1841ec58203b88f7cc81ebab9eacf44d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\066bd1cb764de01eb2a985e2bcade317\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\fb2d1dd69ec1f2878c15c3667c698e5e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\9401be7a42ed366ad2dd4c8c9f29ec2d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\f81ebcbb023e47245d67a1ba1e172fe0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\8744249096c0f5cf9af0e5a71f35c98c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\f153068696fe0fd32eb7aa08d49d805f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\a7bb9322eef351113c09f43ec5be2266\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\a7bb9322eef351113c09f43ec5be2266\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\53c77c89d36fad9dd957f0e654f8ff42\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\53c77c89d36fad9dd957f0e654f8ff42\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\cfce796ce010be54b926528d07eae996\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\cfce796ce010be54b926528d07eae996\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\53c77c89d36fad9dd957f0e654f8ff42\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:12:9-40
+activity#br.com.senac.appcombustivel.MainActivity
+ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\5b4b5462c462d09ba40a03a2401aa4a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\5b4b5462c462d09ba40a03a2401aa4a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\a7bb9322eef351113c09f43ec5be2266\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\a7bb9322eef351113c09f43ec5be2266\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\1513cf45c1122522edb91871f719e2aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\1513cf45c1122522edb91871f719e2aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\5c132ff4d82e581570deb2b9b7363493\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\5c132ff4d82e581570deb2b9b7363493\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\d114f0625c9655ae0d36eec5f1748172\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\d114f0625c9655ae0d36eec5f1748172\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\0c86f62cff1f81177b381a6fe0b44dbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\0c86f62cff1f81177b381a6fe0b44dbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\c8f102129bfa6ecf0e35fb8e7bd72d67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\c8f102129bfa6ecf0e35fb8e7bd72d67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\0e5f08d8afe7f43c4b68895e3f637b4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\0e5f08d8afe7f43c4b68895e3f637b4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\aeeddbbbdeda1c40897a58bfb153f53d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\aeeddbbbdeda1c40897a58bfb153f53d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\4c7208de0d5bbe80667a52336d5561da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\4c7208de0d5bbe80667a52336d5561da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\ba9ef01764c7ee40d72d1bdb3677d793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\ba9ef01764c7ee40d72d1bdb3677d793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\a8f16673473c607aa5e7da905816ff3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\a8f16673473c607aa5e7da905816ff3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\3137de16b202e2bb2d33d4874154190f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\3137de16b202e2bb2d33d4874154190f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\aa86f8e17fd36e9d794ce21de00c2465\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\aa86f8e17fd36e9d794ce21de00c2465\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\5397f8972f595f309dd0c528ce31c4fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\5397f8972f595f309dd0c528ce31c4fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\53c77c89d36fad9dd957f0e654f8ff42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\53c77c89d36fad9dd957f0e654f8ff42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\cfce796ce010be54b926528d07eae996\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\cfce796ce010be54b926528d07eae996\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\025ba84ae060b9b45e3fee32d5e04c21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\025ba84ae060b9b45e3fee32d5e04c21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\e42a1cabaf56ad443e170ce56995f5d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\e42a1cabaf56ad443e170ce56995f5d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\b0bb76d7f31c1762215e2b3d52c6caf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\b0bb76d7f31c1762215e2b3d52c6caf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\1841ec58203b88f7cc81ebab9eacf44d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\1841ec58203b88f7cc81ebab9eacf44d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\066bd1cb764de01eb2a985e2bcade317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\066bd1cb764de01eb2a985e2bcade317\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\fb2d1dd69ec1f2878c15c3667c698e5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\fb2d1dd69ec1f2878c15c3667c698e5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\9401be7a42ed366ad2dd4c8c9f29ec2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\9401be7a42ed366ad2dd4c8c9f29ec2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\f81ebcbb023e47245d67a1ba1e172fe0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\f81ebcbb023e47245d67a1ba1e172fe0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\8744249096c0f5cf9af0e5a71f35c98c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\8744249096c0f5cf9af0e5a71f35c98c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\f153068696fe0fd32eb7aa08d49d805f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\thaina.fssilva\.gradle\caches\transforms-2\files-2.1\f153068696fe0fd32eb7aa08d49d805f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thaina.fssilva\Documents\appcombustivel\app\src\main\AndroidManifest.xml
